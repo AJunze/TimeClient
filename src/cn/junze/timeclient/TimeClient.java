@@ -10,6 +10,7 @@ public class TimeClient {
 
         if(args != null && args.length > 0){
 
+
             port = Integer.valueOf(args[0]);
         }
 
